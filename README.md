@@ -59,8 +59,6 @@ A detailed report covering all findings, analysis, visualizations, and recommend
 ## 🙌 Author
 
 - **Name:** Gokulraj
-- **LinkedIn:** [Your LinkedIn Link]
-- **Email:** [Your Email]
 
 ---
 
